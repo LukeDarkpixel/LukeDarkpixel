@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/014ebdcf-0b92-432b-bbf0-43df9f3ee08e.svg)](https://wakatime.com/@014ebdcf-0b92-432b-bbf0-43df9f3ee08e)
 <!--
 **LukeDarkpixel/LukeDarkpixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
